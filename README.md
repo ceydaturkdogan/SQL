@@ -65,7 +65,6 @@ film tablosundaki uzunluğu(length) 50 ten büyük OLMAYIP aynı zamanda rental_
 
 ### Odev9
 
-
 * city tablosu ile country tablosunda bulunan şehir (city) ve ülke (country) isimlerini birlikte görebileceğimiz INNER JOIN sorgusunu yazınız.
 * customer tablosu ile payment tablosunda bulunan payment_id ile customer tablosundaki first_name ve last_name isimlerini birlikte görebileceğimiz INNER JOIN sorgusunu yazınız.
 * customer tablosu ile rental tablosunda bulunan rental_id ile customer tablosundaki first_name ve last_name isimlerini birlikte görebileceğimiz INNER JOIN sorgusunu yazınız.
@@ -78,7 +77,14 @@ film tablosundaki uzunluğu(length) 50 ten büyük OLMAYIP aynı zamanda rental_
 * customer tablosu ile rental tablosunda bulunan rental_id ile customer tablosundaki first_name ve last_name isimlerini birlikte görebileceğimiz FULL JOIN sorgusunu yazınız.
 
 ### Odev11
+
 * actor ve customer tablolarında bulunan first_name sütunları için tüm verileri sıralayalım.
 * actor ve customer tablolarında bulunan first_name sütunları için kesişen verileri sıralayalım.
 * actor ve customer tablolarında bulunan first_name sütunları için ilk tabloda bulunan ancak ikinci tabloda bulunmayan verileri sıralayalım.
 
+### Odev12
+
+* film tablosunda film uzunluğu length sütununda gösterilmektedir. Uzunluğu ortalama film uzunluğundan fazla kaç tane film vardır?
+* film tablosunda en yüksek rental_rate değerine sahip kaç tane film vardır?
+* film tablosunda en düşük rental_rate ve en düşün replacement_cost değerlerine sahip filmleri sıralayınız.
+* payment tablosunda en fazla sayıda alışveriş yapan müşterileri(customer) sıralayınız.
